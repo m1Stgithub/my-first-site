@@ -1,0 +1,179 @@
+.pic47{
+    width: 1444px;
+    height: 100vh;
+    background: #F8F8F8;
+    
+
+    position: relative;
+}
+
+.content{
+    width: 694px;
+    height: 490px;
+
+    position: absolute;
+    top: 165px;
+    left: 64px;
+    padding: 0px 13px 20px 0px;
+    
+
+}
+
+.headers{
+    width: 681px;
+    height: 188px;
+    
+    position: relative;
+}
+
+.headers_1{
+    font-size: 72px;
+    font-weight: 700;
+
+    width: 532px;
+    height: 86px;
+
+    position: absolute;
+    text-align: left;
+    font-family: Lato;
+    
+}
+
+.headers_2{
+    font-size: 72px;
+    font-weight: 700;
+
+    width: 612px;
+    height: 86px;
+
+    position: absolute;
+
+    text-align: left;
+    left: 64px;
+    top: 102px;
+
+    font-family: Lato;
+
+}
+
+.par{
+    width: 681px;
+    height: 250px;
+    
+    position: relative;
+
+}
+
+.palka{
+    position: absolute;
+    content: "";
+    width: 6px;
+    height: 250px;
+    background-color: #06040A;
+    ;
+}
+
+.frame{
+    position: absolute;
+    width: 632px;
+    height: 250px;
+    
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: left;
+    left: 40px;
+}
+
+.texts{
+    width: 632px;
+    height: 160px;
+}
+
+.button{
+    position: absolute;
+    background-color: #06040A;
+    color: #fff;
+    text-decoration: none;
+    
+    padding: 14px 26px;
+    top: 190px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+
+
+.ph{
+    position: absolute;
+
+    width: 615.77px;
+    height: 440.91px;
+    top: 222px;
+    left: 736px;
+}
+
+.logos{
+    position: absolute;
+
+    width: 130.38px;
+    height: 130.54px;
+    top: 128px;
+    left: 1222px;
+
+}
+
+.card{
+    position: absolute;
+    width: 1308px;
+    height: 229px;
+    top: 731px;
+    left: 68px;
+    display: flex;
+}
+
+.frame_1{
+    position: relative;
+    width: 327px;
+    height: 229px;
+    
+    background: #fff;
+}
+
+.frame_2{
+    position: relative;
+    width: 327px;
+    height: 229px;
+    
+    background: #E2E7F1;
+    ;
+}
+
+.frame_all{
+    position: absolute;
+    top:  50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 255px;
+    height: 133px;
+}
+
+.frame_title{
+    color: #06040A;
+
+    width: 68px;
+    height: 29px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.frame_text{
+    color: #06040A;
+
+    width: 255px;
+    height: 88px;
+
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 300;
+}
